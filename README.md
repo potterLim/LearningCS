@@ -23,8 +23,8 @@
 - 컴퓨터 네트워크
 <br></br>
 ---
-**작성자:** [임청현](https://github.com/potterLim)  
-**블로그:** [나누는 개발자의 블로그](https://potterlim.tistory.com/)  
+**작성자:** <a href="https://github.com/potterLim" target="_blank">임청현</a><br>
+**블로그:** <a href="https://potterlim.tistory.com/" target="_blank">나누는 개발자의 블로그</a><br>
 **E-mail:** potterLim0808@gmail.com
 
 **기여하기:** 이 저장소의 내용은 개인 학습 과정에서 정리한 것입니다. 따라서 정보가 부정확하거나 누락된 부분이 있을 수 있습니다. 오류를 발견하시거나 추가하고 싶은 내용이 있으시면 Pull Request나 Issue로 알려주시면 큰 도움이 될 것입니다.
