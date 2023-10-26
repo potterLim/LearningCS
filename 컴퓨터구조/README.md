@@ -1,5 +1,5 @@
-# Computer Architecture
-이 저장소는 *Computer Architecture*에 대한 학습 내용을 학습하고 정리하는 저장소 입니다.
+# 컴퓨터구조
+이 저장소는 *컴퓨터구조*에 대한 학습 내용을 학습하고 정리하는 저장소 입니다.
 
 ## 학습 내용
 * [2. Virtualization](Notes/2.%20Virtualization.md)
