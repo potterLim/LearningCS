@@ -5,7 +5,7 @@
 
 (추후 추가될 내용들은 이곳에 기입될 예정입니다.)
 
-## 참고 자료
+## 학습 자료
 * 책: *Discrete Mathematics and Its Applications (8th ed.)* by Kenneth H. Rosen
 * 강의: 한동대학교 전산잔자공학부 최희열 교수님의 *Discrete Mathematics*
 * 강의: [POCU Academy *COMP1000: 소프트웨어 공학용 수학*](https://pocu.academy/ko/Courses/COMP1000)

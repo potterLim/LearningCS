@@ -6,8 +6,7 @@
 
 (추후 추가될 내용들은 이곳에 기입될 예정입니다.)
 
-## 참고 자료
-
+## 학습 자료
 * 책: *Computer Organization and Design MIPS Edition: The Hardware/Software Interface (6th ed.)* by David A. Patterson & John L. Hennessy
 * 강의: 한동대학교 전산잔자공학부 고윤민 교수님의 *Computer Architecture and Organization*
 * 강의: 서울대학교 컴퓨터공학과 민상렬 교수님의 *Computer Architecture*
