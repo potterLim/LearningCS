@@ -4,9 +4,12 @@
 ## 과목 소개
 ### 1학년
 - [컴퓨터과학 개론](./컴퓨터과학%20개론)
+  - 컴퓨터과학의 다양한 주제를 개괄적으로 학습하여 나중에 컴퓨터과학의 핵심 과목들의 연관성과 적절성을 이해하는 데 도움이 되도록 한다.
+  - 주요 학습 자료: *Computer Science: An Overview (13th ed.)* by J. Glenn Brookshear & Dennis Brylow
+
 - 컴퓨터과학이 여는 세계
 - [이산수학](./이산수학)
-  - 컴퓨터과학의 중요한 이론적 기초를 제공한 이산수학을 학습함으로써 문제를 해결하는 데 필요한 논리적 사고와 추상적 문제 해결 능력을 배웁니다.
+  - 컴퓨터과학의 중요한 이론적 기초를 제공한 이산수학을 학습함으로써 문제를 해결하는 데 필요한 논리적 사고와 추상적 문제 해결 능력을 배운다.
   - 주요 학습 자료: *Discrete Mathematics and Its Applications (8th ed.)* by Kenneth H. Rosen
 ### 2학년
  - 자료구조
@@ -22,6 +25,7 @@
 - 운영체제
 - 컴퓨터 네트워크
 <br></br>
+
 ---
 **작성자:** [임청현](https://github.com/potterLim)<br>
 **블로그:** [나누는 개발자의 블로그](https://potterlim.tistory.com/)<br>
