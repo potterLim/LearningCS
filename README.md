@@ -17,7 +17,7 @@
  - 개체지향 프로그래밍 및 설계
 ### 3학년
 - [컴퓨터구조](./컴퓨터구조)
-  - 컴퓨터의 기본 구조와 설계, 그리고 하드웨어와 소프트웨어 사이의 복잡한 상호작용을 배웁니다.
+  - 컴퓨터의 기본 구조와 설계, 그리고 하드웨어와 소프트웨어 사이의 복잡한 상호작용을 배운다.
   - 주요 학습 자료: *Computer Organization and Design MIPS Edition: The Hardware/Software Interface (6th ed.)* by David A. Patterson & John L. Hennessy
 - 시스템 프로그래밍
 - 알고리듬
