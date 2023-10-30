@@ -3,9 +3,9 @@
 
 ## 과목 소개
 ### 1학년
-- 컴퓨터과학 개론
+- [컴퓨터과학 개론](./컴퓨터과학%20개론)
 - 컴퓨터과학이 여는 세계
-- [**이산수학**](./Discrete%20Mathematics)
+- [이산수학](./이산수학)
   - 컴퓨터과학의 중요한 이론적 기초를 제공한 이산수학을 학습함으로써 문제를 해결하는 데 필요한 논리적 사고와 추상적 문제 해결 능력을 배웁니다.
   - 주요 학습 자료: *Discrete Mathematics and Its Applications (8th ed.)* by Kenneth H. Rosen
 ### 2학년
@@ -13,7 +13,7 @@
  - 프로그래밍의 원리
  - 개체지향 프로그래밍 및 설계
 ### 3학년
-- [**컴퓨터구조**](./Computer%20Architecture)
+- [컴퓨터구조](./컴퓨터구조)
   - 컴퓨터의 기본 구조와 설계, 그리고 하드웨어와 소프트웨어 사이의 복잡한 상호작용을 배웁니다.
   - 주요 학습 자료: *Computer Organization and Design MIPS Edition: The Hardware/Software Interface (6th ed.)* by David A. Patterson & John L. Hennessy
 - 시스템 프로그래밍
@@ -23,12 +23,12 @@
 - 컴퓨터 네트워크
 <br></br>
 ---
-**작성자:** <a href="https://github.com/potterLim" target="_blank">임청현</a><br>
-**블로그:** <a href="https://potterlim.tistory.com/" target="_blank">나누는 개발자의 블로그</a><br>
+**작성자:** [임청현](https://github.com/potterLim)<br>
+**블로그:** [나누는 개발자의 블로그](https://potterlim.tistory.com/)<br>
 **E-mail:** potterLim0808@gmail.com
 
 **기여하기:** 이 저장소의 내용은 개인 학습 과정에서 정리한 것입니다. 따라서 정보가 부정확하거나 누락된 부분이 있을 수 있습니다. 오류를 발견하시거나 추가하고 싶은 내용이 있으시면 Pull Request나 Issue로 알려주시면 큰 도움이 될 것입니다.
 
-**최종 수정일:** 2023-10-26
+**최종 수정일:** 2023-10-30
 ---
 
